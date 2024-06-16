@@ -1,3 +1,9 @@
+# Contributions
+This was my group project for my honours-level course SOFTENG750. My (Dan) contributions were made under my university account, dcha762. 
+Particularly I worked on three aspects: Login and Onboarding pages, Overall Theme design and Styling, and leveraging the Image Generation API from Segmind. 
+
+[This is deployed on Vercel.](https://project-group-teal-turtles.vercel.app/landing)
+
 # Intelligent Eats
 
 Are you tired of staring into your fridge, wondering what to cook for dinner?
